@@ -228,7 +228,7 @@
 	}
     }
 
-2. method without parameter and with return type.
+2.. method without parameter and with return type.
 -->class TestReturn 
  {
     int  display()
